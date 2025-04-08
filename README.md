@@ -74,4 +74,4 @@
         return self.selected_features
 
 &emsp;&emsp;获取选定的特征名称列表 ，包含top_k个特征名的列表
-![图片Alt]("D:\Pycharm-community\NLP\picture\a.png" "任务四第2项")
+<img src="https://github.com/mzbdgit/NLP2/blob/main/picture/a.png" alt="任务四" width = "800" height = "500" />
